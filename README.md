@@ -233,18 +233,6 @@
 
 ---
 
-### 🚀 Featured Projects
-<p align="center">
-  <a href="https://github.com/mubashirshafique/Titanic-Competition">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mubashirshafique&repo=Titanic-Competition&theme=radical&bg_color=0D1117&title_color=00FFFF&icon_color=00FFFF" />
-  </a>
-  <a href="https://github.com/mubashirshafique/EDA-Project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mubashirshafique&repo=EDA-Project&theme=radical&bg_color=0D1117&title_color=00FFFF&icon_color=00FFFF" />
-  </a>
-</p>
-
----
-
 ### ⚡ GitHub Stats
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mubashirshafique&show_icons=true&theme=tokyonight&title_color=00FFFF&icon_color=00FFFF" />
