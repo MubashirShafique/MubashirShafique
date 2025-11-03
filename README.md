@@ -246,9 +246,6 @@
 ---
 
 ### 🧊 3D Contribution Calendar
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Ashutosh00710/github-readme-activity-graph/master/github-contribution-grid-snake.svg" alt="3D Contribution Snake" />
-</p>
 
 <p align="center">
   <img src="https://github.com/mubashirshafique/mubashirshafique/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
