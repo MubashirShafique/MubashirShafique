@@ -43,6 +43,13 @@
 
 ---
 
+### 🌌 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mubashirshafique&bg_color=000000&color=00FFFF&line=00FFFF&point=ffffff&area=true&hide_border=true" />
+</p>
+
+---
+
 ### 🧊 3D Contribution Calendar
 
 <p align="center">
@@ -51,12 +58,7 @@
 
 ---
 
-### 🌌 Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mubashirshafique&bg_color=000000&color=00FFFF&line=00FFFF&point=ffffff&area=true&hide_border=true" />
-</p>
 
----
 
 ### 🎯 Focus & Vision
 🚀 Creating AI models that **think, learn, and adapt**  
