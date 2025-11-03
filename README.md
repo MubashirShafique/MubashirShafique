@@ -202,7 +202,7 @@
 <!-- 🌌 AI Futuristic GitHub Profile by Muhammad Mubashir Shafique -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&color=00FFFF&size=32&center=true&vCenter=true&width=700&lines=👋+Hey+I'm+Muhammad+Mubashir+Shafique;💻+AI+Engineer+in+Progress;🚀+Turning+Data+Into+Intelligence" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&color=00FFFF&size=32&center=true&vCenter=true&width=700&lines=👋+Hey+I'm+Muhammad+Mubashir+Shafique;💻+Aspiring+AI+Engineer;🚀+Turning+Data+Into+Intelligence" />
 </h1>
 
 ---
@@ -210,18 +210,18 @@
 ### 🧠 About Me
 💡 Passionate about **Artificial Intelligence, Machine Learning, and MLOps**  
 🎓 BS in **Computer Science (3rd Semester)** — *Sukkur IBA University, Sindh, Pakistan*  
-📱 Exploring **Flutter, Android Studio, and AI-powered mobile apps**  
+📱 Exploring **Machine Learning , Deep learning , Flutter, Android Studio, and AI-powered mobile apps**  
 ⚙️ Skilled in **Python, C++, Java, Dart, and Docker**  
 📬 Reach me at: **muhammadmubashirshafique@gmail.com**
 
 ---
 
-### 🌐 Connect With Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/muhammad-mubashir-shafique-732aa536b/">LinkedIn</a> •
-  <a href="https://www.kaggle.com/mubashir24">Kaggle</a> •
-  <a href="https://leetcode.com/u/Muhammad_Mubashir_Shafique12/">LeetCode</a> •
-  <a href="https://app.docker.com/accounts/mubashirshafique">Docker</a>
+### 🌐 Connect With Me  
+<p align="left">
+<a href="https://www.linkedin.com/in/muhammad-mubashir-shafique-732aa536b/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.kaggle.com/mubashir24" target="blank"><img align="center" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
+<a href="https://leetcode.com/u/Muhammad_Mubashir_Shafique12/" target="blank"><img align="center" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
+<a href="https://app.docker.com/accounts/mubashirshafique" target="blank"><img align="center" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /></a>
 </p>
 
 ---
