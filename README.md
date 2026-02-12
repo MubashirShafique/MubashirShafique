@@ -7,14 +7,14 @@
 
 ###  About Me
 - Passionate about **Artificial Intelligence, Machine Learning, and MLOps**  
-🎓 BS in **Computer Science (3rd Semester)** — *Sukkur IBA University, Sindh, Pakistan*  
-📱 Exploring **Machine Learning , Deep learning , Flutter, Android Studio, and AI-powered mobile apps**  
-⚙️ Skilled in **Python, C++, Java, Dart, and Docker**  
-📬 Reach me at: **muhammadmubashirshafique@gmail.com**
+- BS in **Computer Science (3rd Semester)** — *Sukkur IBA University, Sindh, Pakistan*  
+- Exploring **Machine Learning , Deep learning , Flutter, Android Studio, and AI-powered mobile apps**  
+- Skilled in **Python, C++, Java, Dart, and Docker**  
+- Reach me at: **muhammadmubashirshafique@gmail.com**
 
 ---
 
-### 🌐 Connect With Me  
+###  Connect With Me  
 <p align="left">
 <a href="https://www.linkedin.com/in/muhammad-mubashir-shafique-732aa536b/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://www.kaggle.com/mubashir24" target="blank"><img align="center" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
@@ -24,7 +24,7 @@
 
 ---
 
-### 💻 Tech Stack
+###  Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,cpp,dart,flutter,androidstudio,vscode,docker,git,github,scikitlearn,netbeans&theme=dark" />
 </p>
