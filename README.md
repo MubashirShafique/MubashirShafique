@@ -43,27 +43,18 @@
 
 ---
 
-### 🌌 Contribution Graph
+###  Contribution Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mubashirshafique&bg_color=000000&color=00FFFF&line=00FFFF&point=ffffff&area=true&hide_border=true" />
 </p>
 
 ---
 
-### 🧊 3D Contribution Calendar
 
-<p align="center">
-  <img src="https://github.com/mubashirshafique/mubashirshafique/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
-
----
-
-
-
-### 🎯 Focus & Vision
-🚀 Creating AI models that **think, learn, and adapt**  
-📊 Developing intelligent apps that **bridge humans and machines**  
-🧠 Exploring the future of **Autonomous Systems and Generative AI**  
+###  Focus & Vision
+ Creating AI models that **think, learn, and adapt**  
+ Developing intelligent apps that **bridge humans and machines**  
+ Exploring the future of **Autonomous Systems and Generative AI**  
 
 ---
 
