@@ -1,6 +1,6 @@
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&color=00FFFF&size=32&center=true&vCenter=true&width=700&lines=👋+Hey+I'm+Muhammad+Mubashir+Shafique;💻+Aspiring+AI+Engineer;🚀+Turning+Data+Into+Intelligence" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&color=00FFFF&size=32&center=true&vCenter=true&width=700&lines=👋+Hey+I'm+Muhammad+Mubashir+Shafique;+Aspiring+AI+Engineer;+Turning+Data+Into+Intelligence" />
 </h1>
 
 ---
@@ -31,7 +31,7 @@
 
 ---
 
-### ⚡ GitHub Stats
+###  GitHub Stats
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mubashirshafique&show_icons=true&theme=tokyonight&title_color=00FFFF&icon_color=00FFFF" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=mubashirshafique&theme=tokyonight&ring=00FFFF&fire=00FFFF&currStreakLabel=00FFFF" />
