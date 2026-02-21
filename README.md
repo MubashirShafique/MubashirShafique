@@ -31,18 +31,6 @@
 
 ---
 
-###  GitHub Stats
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mubashirshafique&show_icons=true&theme=tokyonight&title_color=00FFFF&icon_color=00FFFF" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=mubashirshafique&theme=tokyonight&ring=00FFFF&fire=00FFFF&currStreakLabel=00FFFF" />
-</p>
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mubashirshafique&layout=compact&theme=tokyonight&title_color=00FFFF" />
-</p>
-
----
-
 ###  Contribution Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mubashirshafique&bg_color=000000&color=00FFFF&line=00FFFF&point=ffffff&area=true&hide_border=true" />
