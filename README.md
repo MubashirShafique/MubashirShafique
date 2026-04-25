@@ -7,7 +7,7 @@
 
 ###  About Me
 - Passionate about **Artificial Intelligence, Machine Learning, and MLOps**  
-- BS in **Computer Science (3rd Semester)** — *Sukkur IBA University, Sindh, Pakistan*  
+- BS in **Computer Science (4th Semester)** — *Sukkur IBA University, Sindh, Pakistan*  
 - Exploring **Machine Learning , Deep learning , Flutter, Android Studio, and AI-powered mobile apps**  
 - Skilled in **Python, C++, Java, Dart, and Docker**  
 - Reach me at: **muhammadmubashirshafique@gmail.com**
