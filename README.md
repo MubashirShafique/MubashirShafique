@@ -1,6 +1,6 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&color=00FFFF&size=32&center=true&vCenter=true&width=700&lines=%F0%9F%91%8B+Hey%2C+I'm+Muhammad+Mubashir+Shafique;AI+%2F+Machine+Learning+Engineer;Building+AI+Agents+%26+Deep+Learning+Systems" />
-</h1>
+<p align="center">
+  <img src="header-banner.svg" alt="Muhammad Mubashir Shafique - AI/ML Engineer" width="100%" />
+</p>
 
 ---
 
