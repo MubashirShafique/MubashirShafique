@@ -6,9 +6,9 @@
 
 ### About Me
 - AI/ML Engineer building **end-to-end AI systems** — from multi-agent LLM apps to deployed deep learning pipelines
-- Hands-on with **LangChain, LangGraph, RAG, and Computer Vision (MobileNetV2, TensorFlow Lite)**
+- Hands-on with **Machine learning , Deep learning,Gen AI , AI Agents, RAG, and Computer Vision**
 - BS in **Computer Science (5th Semester)** — *Sukkur IBA University, Sindh, Pakistan*
-- Experienced in shipping projects via **FastAPI, Flutter, and MLOps (DVC)**
+- Experienced in shipping projects via **Langchain , Langgraph,Langsmith ,FastAPI, Flutter, and MLOps (DVC)**
 - 📄 **[View My Resume](https://github.com/MubashirShafique/My-Resume/blob/main/Mubashir_Shafique_CV.pdf)**
 -  Reach me at: **muhammadmubashirshafique@gmail.com**
 
