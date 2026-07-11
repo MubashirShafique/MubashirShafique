@@ -51,4 +51,4 @@
 
 ---
 
-<h3 align="center">⭐ "Learning never exhausts the mind." — Leonardo da Vinci ⭐</h3>
+<h3 align="center">⭐ I don't program machines to follow instructions. I teach them how to think ⭐</h3>
