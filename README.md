@@ -188,13 +188,17 @@ End-to-end spam detection system across SMS and email using NLP, served via Fast
 ### 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MubashirShafique&show_icons=true&theme=radical&hide_border=true&bg_color=000000&title_color=00FFFF&icon_color=00FFFF" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MubashirShafique&theme=radical&hide_border=true&background=000000&ring=00FFFF&fire=00FFFF" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MubashirShafique&theme=github_dark" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MubashirShafique&theme=radical&hide_border=true&background=000000&ring=00FFFF&fire=00FFFF&cache_seconds=86400" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MubashirShafique&bg_color=000000&color=00FFFF&line=00FFFF&point=ffffff&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MubashirShafique&bg_color=000000&color=00FFFF&line=00FFFF&point=ffffff&area=true&hide_border=true&cache_seconds=86400" />
 </p>
+
+<!-- Agar upar wali activity-graph line phir bhi kabhi broken aaye (kyunke ye ab bhi shared Vercel instance hai), to isay hata kar neeche wali profile-summary-cards line use kar lena — 100% stable hai: -->
+ <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MubashirShafique&theme=github_dark" width="48%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MubashirShafique&theme=github_dark" width="48%" /> 
 
 ---
 
