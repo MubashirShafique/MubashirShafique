@@ -221,8 +221,8 @@ End-to-end spam detection system across SMS and email using NLP, served via Fast
 
 ### 🎓 Certifications
 
-- **Google Advanced Data Analytics Professional Certificate** — [Verify Credential](#)
-- **Google IT Automation with Python Professional Certificate** — [Verify Credential](#)
+- **Google Advanced Data Analytics Professional Certificate** — [Verify Credential](https://coursera.org/share/60092242ab1325c834f1da0427630ec4)
+- **Google IT Automation with Python Professional Certificate** — [Verify Credential](https://www.coursera.org/account/accomplishments/specialization/IXU6X5QP96H9)
 
 ---
 
