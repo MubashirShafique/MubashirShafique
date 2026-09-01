@@ -9,7 +9,7 @@
   <img src="https://komarev.com/ghpvc/?username=MubashirShafique&label=Profile%20Views&color=00FFFF&style=flat" alt="profile views" />
   <a href="https://www.linkedin.com/in/muhammad-mubashir-shafique-732aa536b/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
   <a href="https://www.kaggle.com/mubashir24"><img src="https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=flat&logo=kaggle&logoColor=white" /></a>
-  <a href="https://leetcode.com/u/Muhammad_Mubashir_Shafique12/"><img src="https://img.shields.io/badge/LeetCode-Solve-FFA116?style=flat&logo=leetcode&logoColor=white" /></a>
+  
 </p>
 
 ---
