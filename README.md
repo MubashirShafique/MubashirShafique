@@ -18,22 +18,21 @@
 
 Results-driven **AI/ML Engineer** with hands-on experience building **production-grade agentic RAG architectures**, robust **MLOps pipelines**, and scalable **cross-platform AI applications**.
 
-- 🔭 Building **end-to-end AI systems** — from multi-agent LLM apps to deployed deep learning pipelines
-- 🧠 Hands-on with **Machine Learning, Deep Learning, Generative AI, AI Agents, RAG, and Computer Vision**
-- 🎓 BS in **Computer Science (5th Semester)** — *Sukkur IBA University, Sindh, Pakistan*
-- ⚙️ Shipping projects end-to-end with **LangGraph, LangChain, LangSmith, Qdrant, FastAPI, Flutter, and DVC (MLOps)**
-- 📄 **[View My Resume](https://github.com/MubashirShafique/My-Resume/blob/main/Mubashir_Shafique_CV.pdf)**
-- 📫 Reach me at: **muhammadmubashirshafique@gmail.com**
+-  Building **end-to-end AI systems** — from multi-agent LLM apps to deployed deep learning pipelines
+-  Hands-on with **Machine Learning, Deep Learning, Generative AI, AI Agents, RAG, and Computer Vision**
+-  BS in **Computer Science (5th Semester)** — *Sukkur IBA University, Sindh, Pakistan*
+-  Shipping projects end-to-end with **LangGraph, LangChain, LangSmith, Qdrant, FastAPI, Flutter, and DVC (MLOps)**
+-  **[View My Resume](https://github.com/MubashirShafique/My-Resume/blob/main/Mubashir_Shafique_CV.pdf)**
+-  Reach me at: **muhammadmubashirshafique@gmail.com**
 
 ---
 
-### 🚀 Featured Projects
-
+###  Featured Projects
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**[🧩 Enterprise Agentic RAG](https://github.com/MubashirShafique/enterprise-agentic-rag)**
+### 🧩 [Enterprise Agentic RAG](https://github.com/MubashirShafique/enterprise-agentic-rag)
 
 Enterprise-grade agentic RAG system built on Pydantic AI docs, with LangGraph orchestration and full observability.
 
@@ -42,7 +41,7 @@ Enterprise-grade agentic RAG system built on Pydantic AI docs, with LangGraph or
 </td>
 <td width="50%" valign="top">
 
-**[🌱 KapasAI](https://github.com/MubashirShafique/KapasAI)**
+### 🌱 [KapasAI](https://github.com/MubashirShafique/KapasAI)
 
 AI-powered cotton farming ecosystem — offline deep learning, multi-agent AI, and RAG for crop disease detection.
 
@@ -51,9 +50,12 @@ AI-powered cotton farming ecosystem — offline deep learning, multi-agent AI, a
 </td>
 </tr>
 <tr>
+<td colspan="2">&nbsp;</td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
-**[📈 Gold Trend Predictor AI](https://github.com/MubashirShafique/Gold-Trend-Predictor-AI-Project_)**
+### 📈 [Gold Trend Predictor AI](https://github.com/MubashirShafique/Gold-Trend-Predictor-AI-Project_)
 
 End-to-end gold market trend prediction system using ML, DVC pipelines, FastAPI, and Flutter to forecast bullish/bearish trends.
 
@@ -62,7 +64,7 @@ End-to-end gold market trend prediction system using ML, DVC pipelines, FastAPI,
 </td>
 <td width="50%" valign="top">
 
-**[🥇 Gold Market AI Agent](https://github.com/MubashirShafique/gold-market-ai-agent_)**
+### 🥇 [Gold Market AI Agent](https://github.com/MubashirShafique/gold-market-ai-agent_)
 
 AI agent combining ML predictions, historical analysis, and real-time web data for BUY/SELL recommendations via LangChain.
 
@@ -71,9 +73,12 @@ AI agent combining ML predictions, historical analysis, and real-time web data f
 </td>
 </tr>
 <tr>
+<td colspan="2">&nbsp;</td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
-**[📬 Email Assistant Agent](https://github.com/MubashirShafique/email-assistant-agent)**
+### 📬 [Email Assistant Agent](https://github.com/MubashirShafique/email-assistant-agent)
 
 AI-powered Gmail assistant drafting context-aware replies with human-in-the-loop approval before sending.
 
@@ -82,7 +87,7 @@ AI-powered Gmail assistant drafting context-aware replies with human-in-the-loop
 </td>
 <td width="50%" valign="top">
 
-**[📊 Mubrix — End-to-End ML](https://github.com/MubashirShafique/mubrix-end-to-end-ml)**
+### 📊 [Mubrix — End-to-End ML](https://github.com/MubashirShafique/mubrix-end-to-end-ml)
 
 Market prediction platform with a complete MLOps pipeline, REST API, Android app, and Streamlit dashboard.
 
@@ -91,9 +96,12 @@ Market prediction platform with a complete MLOps pipeline, REST API, Android app
 </td>
 </tr>
 <tr>
+<td colspan="2">&nbsp;</td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
-**[🎵 Mijaaz](https://github.com/MubashirShafique/Mijaaz-App-Showcase)**
+### 🎵 [Mijaaz](https://github.com/MubashirShafique/Mijaaz-App-Showcase)
 
 Offline music recommendation app built with Flutter + TensorFlow Lite, using a custom ANN model for mood-based Pakistani & Indian song recommendations.
 
@@ -102,7 +110,7 @@ Offline music recommendation app built with Flutter + TensorFlow Lite, using a c
 </td>
 <td width="50%" valign="top">
 
-**[✉️ SMS/Email Spam Classifier](https://github.com/MubashirShafique/SMS-Email-Spam-Classifier-End-to-End-Project-)**
+### ✉️ [SMS/Email Spam Classifier](https://github.com/MubashirShafique/SMS-Email-Spam-Classifier-End-to-End-Project-)
 
 End-to-end spam detection system across SMS and email using NLP, served via FastAPI/Streamlit and a Flutter client.
 
@@ -187,18 +195,27 @@ End-to-end spam detection system across SMS and email using NLP, served via Fast
 
 ### 📊 GitHub Activity
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MubashirShafique&theme=github_dark" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MubashirShafique&theme=radical&hide_border=true&background=000000&ring=00FFFF&fire=00FFFF&cache_seconds=86400" width="48%" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MubashirShafique&bg_color=000000&color=00FFFF&line=00FFFF&point=ffffff&area=true&hide_border=true&cache_seconds=86400" />
-</p>
 
-<!-- Agar upar wali activity-graph line phir bhi kabhi broken aaye (kyunke ye ab bhi shared Vercel instance hai), to isay hata kar neeche wali profile-summary-cards line use kar lena — 100% stable hai: -->
- <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MubashirShafique&theme=github_dark" width="48%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MubashirShafique&theme=github_dark" width="48%" /> 
+
+ <table align="center" width="100%">
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MubashirShafique&theme=github_dark" width="100%" />
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=MubashirShafique&theme=radical&hide_border=true&background=000000&ring=00FFFF&fire=00FFFF&cache_seconds=86400" width="100%" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MubashirShafique&theme=github_dark" width="100%" />
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MubashirShafique&theme=github_dark" width="100%" />
+    </td>
+  </tr>
+</table>
 
 ---
 
