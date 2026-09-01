@@ -138,15 +138,15 @@ End-to-end spam detection system across SMS and email using NLP, served via Fast
 </details>
 
 ---
-
 ### 🛠️ Tech Stack
 
 **Languages**
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
 
 **AI Agents, RAG & GenAI**
@@ -154,16 +154,20 @@ End-to-end spam detection system across SMS and email using NLP, served via Fast
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
   <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge" />
   <img src="https://img.shields.io/badge/LangSmith-1C3C3C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/PydanticAI-E92063?style=for-the-badge&logo=pydantic&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
+  <img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge" />
   <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
 </p>
 
-**Vector DB & LLMOps**
+**Vector DB, Guardrails & LLMOps**
 <p align="left">
   <img src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge" />
   <img src="https://img.shields.io/badge/NeMo%20Guardrails-76B900?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Portkey-000000?style=for-the-badge" />
   <img src="https://img.shields.io/badge/FlashRank-4B0082?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Logfire-6E56CF?style=for-the-badge" />
 </p>
 
 **Machine Learning & Deep Learning**
@@ -179,12 +183,14 @@ End-to-end spam detection system across SMS and email using NLP, served via Fast
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/DVC-13ADC7?style=for-the-badge&logo=dvc&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white" />
 </p>
 
-**Backend & Mobile**
+**Backend, APIs & Mobile**
 <p align="left">
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gmail%20API-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
@@ -216,7 +222,6 @@ End-to-end spam detection system across SMS and email using NLP, served via Fast
     </td>
   </tr>
 </table>
-
 ---
 
 ### 🎓 Certifications
