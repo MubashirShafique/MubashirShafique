@@ -207,9 +207,6 @@ End-to-end spam detection system across SMS and email using NLP, served via Fast
  <table align="center" width="100%">
   <tr>
     <td align="center" width="50%">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MubashirShafique&theme=github_dark" width="100%" />
-    </td>
-    <td align="center" width="50%">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=MubashirShafique&theme=radical&hide_border=true&background=000000&ring=00FFFF&fire=00FFFF&cache_seconds=86400" width="100%" />
     </td>
   </tr>
