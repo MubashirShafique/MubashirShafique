@@ -226,4 +226,18 @@ End-to-end spam detection system across SMS and email using NLP, served via Fast
 
 ---
 
-<h3 align="center">⭐ I don't program machines to follow instructions. I teach them how to think. ⭐</h3>
+<!-- <h3 align="center">⭐ "Raise your self so high that before every decree of fate, God Himself asks: 'Tell me, what is it you desire?"
+(Allama Iqbal) ⭐</h3> -->
+
+<div align="center">
+
+---
+
+<h3>🌙 <i><font color="#58a6ff">"Raise your self so high that before every decree of fate,<br>
+God Himself asks: 'Tell me, what is it you desire?'"</font></i></h3>
+
+<h4><font color="#f0883e"> Allama Iqbal</font></h4>
+
+---
+
+</div>
