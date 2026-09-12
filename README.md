@@ -18,7 +18,7 @@
 Results-driven **AI/ML Engineer** with hands-on experience building **production-grade agentic RAG architectures**, robust **MLOps pipelines**, and scalable **cross-platform AI applications**.
 
 -  Building **end-to-end AI systems** — from multi-agent LLM apps to deployed deep learning pipelines
--  Hands-on with **Machine Learning, Deep Learning, Generative AI, AI Agents, RAG, and Computer Vision**
+-  Hands-on with **Machine Learning, Deep Learning, Generative AI, AI Agents, RAG, AI Security and Computer Vision**
 -  BS in **Computer Science (5th Semester)** — *Sukkur IBA University, Sindh, Pakistan*
 -  Shipping projects end-to-end with **LangGraph, LangChain, LangSmith, Qdrant, FastAPI, Flutter, and DVC (MLOps)**
 -  **[View My Resume](https://github.com/MubashirShafique/My-Resume/blob/main/Mubashir_Shafique_CV.pdf)**
@@ -35,7 +35,7 @@ Results-driven **AI/ML Engineer** with hands-on experience building **production
 
 Enterprise-grade agentic RAG system built on Pydantic AI docs, with LangGraph orchestration and full observability.
 
-`langgraph` `qdrant-vector-database` `nemo-guardrails` `portkey` `langsmith` `fastapi`
+`langgraph` `qdrant-vector-database` `nemo-guardrails` `portkey` `langsmith` `fastapi` `ai-red-teaming`
 
 </td>
 <td width="50%" valign="top">
