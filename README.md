@@ -19,7 +19,7 @@ Results-driven **AI/ML Engineer** with hands-on experience building **production
 
 -  Building **end-to-end AI systems** — from multi-agent LLM apps to deployed deep learning pipelines
 -  Hands-on with **Machine Learning, Deep Learning, Generative AI, AI Agents, RAG, AI Security and Computer Vision**
--  BS in **Computer Science (5th Semester)** — *Sukkur IBA University, Sindh, Pakistan*
+-  BS in **Computer Science** — *Sukkur IBA University, Sindh, Pakistan*
 -  Shipping projects end-to-end with **LangGraph, LangChain, LangSmith, Qdrant, FastAPI, Flutter, and DVC (MLOps)**
 -  **[View My Resume](https://github.com/MubashirShafique/My-Resume/blob/main/Mubashir_Shafique_CV.pdf)**
 -  Reach me at: **muhammadmubashirshafique@gmail.com**
