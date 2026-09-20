@@ -226,12 +226,3 @@ End-to-end spam detection system across SMS and email using NLP, served via Fast
 
 ---
 
-<!-- <h3 align="center">⭐ "Raise your self so high that before every decree of fate, God Himself asks: 'Tell me, what is it you desire?"
-(Allama Iqbal) ⭐</h3> -->
-
-<div align="center">
-
-
----
-
-</div>
