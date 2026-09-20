@@ -231,12 +231,6 @@ End-to-end spam detection system across SMS and email using NLP, served via Fast
 
 <div align="center">
 
----
-
-
-
-![Static Badge](https://img.shields.io/badge/-%20Allama%20Iqbal%20%28National%20Poet%20of%20Pakistan%29-2ea043?style=for-the-badge)
-
 
 ---
 
