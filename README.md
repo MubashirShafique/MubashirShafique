@@ -233,8 +233,6 @@ End-to-end spam detection system across SMS and email using NLP, served via Fast
 
 ---
 
-🌙 ***"Raise yourself so high that before every decree of fate,***
-***God Himself asks: 'Tell me, what is it you desire?"*** ✨
 
 
 ![Static Badge](https://img.shields.io/badge/-%20Allama%20Iqbal%20%28National%20Poet%20of%20Pakistan%29-2ea043?style=for-the-badge)
