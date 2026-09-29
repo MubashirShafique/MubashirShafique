@@ -1,6 +1,6 @@
-<p align="center">
+<!-- <p align="center">
   <img src="header-banner.svg" alt="Muhammad Mubashir Shafique - AI/ML Engineer" width="100%" />
-</p>
+</p> -->
 
 <h1 align="center">Muhammad Mubashir Shafique</h1>
 <h3 align="center">AI / ML Engineer | Advanced AI Agents & RAG Systems | MLOps</h3>
