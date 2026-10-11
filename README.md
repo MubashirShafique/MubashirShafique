@@ -3,7 +3,7 @@
 </p> -->
 
 <h1 align="center">Muhammad Mubashir Shafique</h1>
-<h3 align="center">AI / ML Engineer | Advanced AI Agents & RAG Systems | MLOps</h3>
+<!-- <h3 align="center">AI / ML Engineer | Advanced AI Agents & RAG Systems | MLOps</h3> -->
 
 <p align="center">
   <a href="https://www.linkedin.com/in/muhammad-mubashir-shafique-732aa536b/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
@@ -15,14 +15,14 @@
 
 ### About Me
 
-Results-driven **AI/ML Engineer** with hands-on experience building **production-grade agentic RAG architectures**, robust **MLOps pipelines**, and scalable **cross-platform AI applications**.
+Results-driven **AI/ML Engineer** with hands-on experience building **production-grade agentic RAG architectures**, scalable **end-to-end ML workflows**, and **cross-platform AI applications**.
 
--  BS in **Computer Science** — *Sukkur IBA University, Sindh, Pakistan*
--  Building **end-to-end AI systems** — from multi-agent LLM apps to deployed deep learning pipelines
--  Hands-on with **Machine Learning, Deep Learning, Generative AI, AI Agents, RAG, AI Security and Computer Vision**
--  **Interface Integration** — Leveraging AI tools to build functional Flutter & web frontends
--  **[View My Resume](https://github.com/MubashirShafique/My-Resume/blob/main/Mubashir_Shafique_CV.pdf)**
--  Reach me at: **muhammadmubashirshafique@gmail.com**
+- 🎓 BS in **Computer Science** — *Sukkur IBA University, Sindh, Pakistan*
+- 🚀 Building **end-to-end AI systems** — from multi-agent LLM apps to deployment-ready deep learning pipelines
+- 🛠️ Hands-on with **Machine Learning, Deep Learning, Generative AI, AI Agents, RAG, AI Security, and Computer Vision**
+- 📱 **Interface Integration** — Leveraging AI tools to build functional Flutter & web frontends
+- 📄 **[View My Resume](https://github.com/MubashirShafique/My-Resume/blob/main/Mubashir_Shafique_CV.pdf)**
+- 📧 Reach me at: **muhammadmubashirshafique@gmail.com**
 
 ---
 
