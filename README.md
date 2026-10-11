@@ -3,7 +3,7 @@
 </p> -->
 
 <h1 align="center">Muhammad Mubashir Shafique</h1>
-<!-- <h3 align="center">AI / ML Engineer | Advanced AI Agents & RAG Systems | MLOps</h3> -->
+<h3 align="center">AI / ML Engineer | Advanced AI Agents & RAG Systems | MLOps</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/muhammad-mubashir-shafique-732aa536b/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
