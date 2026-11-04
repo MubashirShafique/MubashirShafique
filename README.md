@@ -137,63 +137,69 @@ End-to-end spam detection system across SMS and email using NLP, served via Fast
 </details>
 
 ---
-### 🛠️ Tech Stack
 
-**Languages**
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+## 🛠️ Tech Stack
+
+### 🤖 AI Agents, RAG & Generative AI
+
+<p align="center">
+  <img src="./assets/tech/openai.svg" height="48" alt="OpenAI"/>
+  &nbsp;&nbsp;
+  <img src="./assets/tech/gemini.svg" height="48" alt="Gemini"/>
+  &nbsp;&nbsp;
+  <img src="./assets/tech/groq.svg" height="48" alt="Groq"/>
+  &nbsp;&nbsp;
+  <img src="./assets/tech/langchain.svg" height="48" alt="LangChain"/>
+  &nbsp;&nbsp;
+  <img src="./assets/tech/langgraph.svg" height="48" alt="LangGraph"/>
+  &nbsp;&nbsp;
+  <img src="./assets/tech/langsmith.svg" height="48" alt="LangSmith"/>
+  &nbsp;&nbsp;
+  <img src="./assets/tech/pydanticai.svg" height="48" alt="PydanticAI"/>
+  &nbsp;&nbsp;
+  <img src="./assets/tech/n8n.svg" height="48" alt="n8n"/>
 </p>
 
-**AI Agents, RAG & GenAI**
-<p align="left">
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/LangSmith-1C3C3C?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/PydanticAI-E92063?style=for-the-badge&logo=pydantic&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
-  <img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
+### 🗄️ Vector Databases, Guardrails & LLMOps
+
+<p align="center">
+  <img src="./assets/tech/qdrant.svg" height="48" alt="Qdrant"/>
+  &nbsp;&nbsp;
+  <img src="./assets/tech/portkey.svg" height="48" alt="Portkey"/>
+  &nbsp;&nbsp;
+  <img src="./assets/tech/flashrank.svg" height="48" alt="FlashRank"/>
+  &nbsp;&nbsp;
+  <img src="./assets/tech/logfire.svg" height="48" alt="Logfire"/>
+  &nbsp;&nbsp;
+  <img src="./assets/tech/pydantic.svg" height="48" alt="Pydantic"/>
 </p>
 
-**Vector DB, Guardrails & LLMOps**
-<p align="left">
-  <img src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/NeMo%20Guardrails-76B900?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Portkey-000000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/FlashRank-4B0082?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Logfire-6E56CF?style=for-the-badge" />
+### 🧠 Machine Learning & Deep Learning
+
+<p align="center">
+  <img src="./assets/tech/tensorflow-lite.svg" height="48" alt="TensorFlow Lite"/>
+  &nbsp;&nbsp;
+  <img src="./assets/tech/xgboost.svg" height="48" alt="XGBoost"/>
 </p>
 
-**Machine Learning & Deep Learning**
-<p align="left">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow%20Lite-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/XGBoost-0066CC?style=for-the-badge" />
+### 📊 Data Science & MLOps
+
+<p align="center">
+  <img src="./assets/tech/pandas.svg" height="48" alt="Pandas"/>
+  &nbsp;&nbsp;
+  <img src="./assets/tech/numpy.svg" height="48" alt="NumPy"/>
+  &nbsp;&nbsp;
+  <img src="./assets/tech/dvc.svg" height="48" alt="DVC"/>
+  &nbsp;&nbsp;
+  <img src="./assets/tech/mlflow.svg" height="48" alt="MLflow"/>
 </p>
 
-**Data & MLOps**
-<p align="left">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/DVC-13ADC7?style=for-the-badge&logo=dvc&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white" />
-</p>
+### ⚙️ Backend, APIs & Mobile
 
-**Backend, APIs & Mobile**
-<p align="left">
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gmail%20API-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<p align="center">
+  <img src="./assets/tech/streamlit.svg" height="48" alt="Streamlit"/>
+   &nbsp;&nbsp;
+  <img src="./assets/tech/shap.svg" height="48" alt="FastAPI"/>
 </p>
 
 ---
