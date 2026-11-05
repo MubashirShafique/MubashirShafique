@@ -182,8 +182,6 @@ End-to-end spam detection system across SMS and email using NLP, served via Fast
   <img src="./assets/tech/scikit-learn.svg" height="48" alt="scikit-learn"/>
   &nbsp;&nbsp;
   <img src="./assets/tech/keras.svg" height="48" alt="Keras"/>
-   &nbsp;&nbsp;
-  <img src="./assets/tech/matplotlib.svg" height="48" alt="matplotlib"/>
 </p>
 
 ### 📊 Data Science & MLOps
@@ -200,6 +198,10 @@ End-to-end spam detection system across SMS and email using NLP, served via Fast
   <img src="./assets/tech/git.svg" height="48" alt="Git"/>
   &nbsp;&nbsp;
   <img src="./assets/tech/microsoft-power-bi.svg" height="48" alt="microsoft-power-bi"/>
+  &nbsp;&nbsp;
+  <img src="./assets/tech/matplotlib.svg" height="48" alt="matplotlib"/>
+  &nbsp;&nbsp;
+  <img src="./assets/tech/seaborn.svg" height="48" alt="Seaborn"/>
 </p>
 
 ### ⚙️ Backend, APIs & Mobile
@@ -208,6 +210,8 @@ End-to-end spam detection system across SMS and email using NLP, served via Fast
   <img src="./assets/tech/streamlit.svg" height="48" alt="Streamlit"/>
    &nbsp;&nbsp;
   <img src="./assets/tech/FastAPI.svg" height="48" alt="FastAPI"/>
+   &nbsp;&nbsp;
+  <img src="./assets/tech/flutter.svg" height="48" alt="flutter"/>
 </p>
 
 ---
