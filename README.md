@@ -204,6 +204,15 @@ End-to-end spam detection system across SMS and email using NLP, served via Fast
   <kbd>&nbsp;<img src="./assets/tech/flutter.svg" width="64" height="64" alt="Flutter"/><br/><b>Flutter</b>&nbsp;</kbd>
 </p>
 
+<br/>
+
+<h3 align="center"> AI Security &amp; Red Teaming</h3>
+<p align="center">
+  <kbd>&nbsp;<img src="./assets/tech/azure.svg" width="64" height="64" alt="PyRIT"/><br/><b>PyRIT</b>&nbsp;</kbd>&nbsp;&nbsp;
+  <kbd>&nbsp;<img src="./assets/tech/nvidia-nemotron.svg" width="64" height="64" alt="NeMo Guardrails"/><br/><b>NeMo Guardrails</b>&nbsp;</kbd>&nbsp;&nbsp;
+
+</p>
+
 ---
 
 ### GitHub Activity
