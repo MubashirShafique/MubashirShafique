@@ -203,6 +203,7 @@ End-to-end spam detection system across SMS and email using NLP, served via Fast
   <kbd>&nbsp;<img src="./assets/tech/FastAPI.svg" width="64" height="64" alt="FastAPI"/><br/><b>FastAPI</b>&nbsp;</kbd>&nbsp;&nbsp;
   <kbd>&nbsp;<img src="./assets/tech/flutter.svg" width="64" height="64" alt="Flutter"/><br/><b>Flutter</b>&nbsp;</kbd>
 </p>
+
 ---
 
 ### GitHub Activity
