@@ -140,112 +140,69 @@ End-to-end spam detection system across SMS and email using NLP, served via Fast
 
 ## 🛠️ Tech Stack
 
-### programming Languages
+<h3 align="center">Programming Languages</h3>
 <p align="center">
-  <img src="./assets/tech/python.svg" height="48" alt="python"/>
-  &nbsp;&nbsp;
-  <img src="./assets/tech/dart.svg" height="48" alt="Dart"/>
-  &nbsp;&nbsp;
-  <img src="./assets/tech/javascript.svg" height="48" alt="JavaScript"/>
- 
+  <kbd>&nbsp;<img src="./assets/tech/python.svg" width="64" height="64" alt="Python"/><br/><b>Python</b>&nbsp;</kbd>&nbsp;&nbsp;
+  <kbd>&nbsp;<img src="./assets/tech/dart.svg" width="64" height="64" alt="Dart"/><br/><b>Dart</b>&nbsp;</kbd>&nbsp;&nbsp;
+  <kbd>&nbsp;<img src="./assets/tech/javascript.svg" width="64" height="64" alt="JavaScript"/><br/><b>JavaScript</b>&nbsp;</kbd>
 </p>
 
+<br/>
 
-### 🤖 AI Agents, RAG & Generative AI
-
+<h3 align="center">🤖 AI Agents, RAG &amp; Generative AI</h3>
 <p align="center">
-  <img src="./assets/tech/openai.svg" height="48" alt="OpenAI"/>
-  &nbsp;&nbsp;
-  <img src="./assets/tech/gemini.svg" height="48" alt="Gemini"/>
-  &nbsp;&nbsp;
-  <img src="./assets/tech/groq.svg" height="48" alt="Groq"/>
-  &nbsp;&nbsp;
-  <img src="./assets/tech/langchain.svg" height="48" alt="LangChain"/>
-  &nbsp;&nbsp;
-  <img src="./assets/tech/langgraph.svg" height="48" alt="LangGraph"/>
-  &nbsp;&nbsp;
-  <img src="./assets/tech/langsmith.svg" height="48" alt="LangSmith"/>
-  &nbsp;&nbsp;
-  <img src="./assets/tech/n8n.svg" height="48" alt="n8n"/>
+  <kbd>&nbsp;<img src="./assets/tech/openai.svg" width="64" height="64" alt="OpenAI"/><br/><b>OpenAI</b>&nbsp;</kbd>&nbsp;&nbsp;
+  <kbd>&nbsp;<img src="./assets/tech/gemini.svg" width="64" height="64" alt="Gemini"/><br/><b>Gemini</b>&nbsp;</kbd>&nbsp;&nbsp;
+  <kbd>&nbsp;<img src="./assets/tech/groq.svg" width="64" height="64" alt="Groq"/><br/><b>Groq</b>&nbsp;</kbd>&nbsp;&nbsp;
+  <kbd>&nbsp;<img src="./assets/tech/langchain.svg" width="64" height="64" alt="LangChain"/><br/><b>LangChain</b>&nbsp;</kbd>&nbsp;&nbsp;
+  <kbd>&nbsp;<img src="./assets/tech/langgraph.svg" width="64" height="64" alt="LangGraph"/><br/><b>LangGraph</b>&nbsp;</kbd>&nbsp;&nbsp;
+  <kbd>&nbsp;<img src="./assets/tech/flashrank.svg" width="64" height="64" alt="FlashRank"/><br/><b>FlashRank</b>&nbsp;</kbd>&nbsp;&nbsp;
+  <kbd>&nbsp;<img src="./assets/tech/n8n.svg" width="64" height="64" alt="n8n"/><br/><b>n8n</b>&nbsp;</kbd>
 </p>
 
-### 🗄️ Vector Databases, Guardrails & LLMOps
+<br/>
 
+<h3 align="center">🗄️ Vector Databases, Guardrails &amp; LLMOps</h3>
 <p align="center">
-  <img src="./assets/tech/qdrant.svg" height="48" alt="Qdrant"/>
-  &nbsp;&nbsp;
-  <img src="./assets/tech/portkey.svg" height="48" alt="Portkey"/>
-  &nbsp;&nbsp;
-  <img src="./assets/tech/flashrank.svg" height="48" alt="FlashRank"/>
-  &nbsp;&nbsp;
-  <img src="./assets/tech/Pinecone.svg" height="48" alt="Pinecone"/>
-  &nbsp;&nbsp;
-  <img src="./assets/tech/chroma.svg" height="48" alt="Chroma"/>
+  <kbd>&nbsp;<img src="./assets/tech/qdrant.svg" width="64" height="64" alt="Qdrant"/><br/><b>Qdrant</b>&nbsp;</kbd>&nbsp;&nbsp;
+  <kbd>&nbsp;<img src="./assets/tech/portkey.svg" width="64" height="64" alt="Portkey"/><br/><b>Portkey</b>&nbsp;</kbd>&nbsp;&nbsp;
+  <kbd>&nbsp;<img src="./assets/tech/langsmith.svg" width="64" height="64" alt="LangSmith"/><br/><b>LangSmith</b>&nbsp;</kbd>&nbsp;&nbsp;
+  <kbd>&nbsp;<img src="./assets/tech/Pinecone.svg" width="64" height="64" alt="Pinecone"/><br/><b>Pinecone</b>&nbsp;</kbd>&nbsp;&nbsp;
+  <kbd>&nbsp;<img src="./assets/tech/chroma.svg" width="64" height="64" alt="Chroma"/><br/><b>Chroma</b>&nbsp;</kbd>
 </p>
 
-### 🧠 Machine Learning & Deep Learning
+<br/>
 
+<h3 align="center">🧠 Machine Learning &amp; Deep Learning</h3>
 <p align="center">
-  <img src="./assets/tech/tensorflow.svg" height="48" alt="TensorFlow Lite"/>
-  &nbsp;&nbsp;
-  <img src="./assets/tech/xgboost.svg" height="48" alt="XGBoost"/>
-  &nbsp;&nbsp;
-  <img src="./assets/tech/scikit-learn.svg" height="48" alt="scikit-learn"/>
-  &nbsp;&nbsp;
-  <img src="./assets/tech/keras.svg" height="48" alt="Keras"/>
+  <kbd>&nbsp;<img src="./assets/tech/tensorflow.svg" width="64" height="64" alt="TensorFlow Lite"/><br/><b>TensorFlow Lite</b>&nbsp;</kbd>&nbsp;&nbsp;
+  <kbd>&nbsp;<img src="./assets/tech/xgboost.svg" width="64" height="64" alt="XGBoost"/><br/><b>XGBoost</b>&nbsp;</kbd>&nbsp;&nbsp;
+  <kbd>&nbsp;<img src="./assets/tech/scikit-learn.svg" width="64" height="64" alt="scikit-learn"/><br/><b>scikit-learn</b>&nbsp;</kbd>&nbsp;&nbsp;
+  <kbd>&nbsp;<img src="./assets/tech/keras.svg" width="64" height="64" alt="Keras"/><br/><b>Keras</b>&nbsp;</kbd>
 </p>
 
-### 📊 Data Science & MLOps
+<br/>
 
+<h3 align="center">📊 Data Science &amp; MLOps</h3>
 <p align="center">
-  <img src="./assets/tech/pandas.svg" height="48" alt="Pandas"/>
-  &nbsp;&nbsp;
-  <img src="./assets/tech/numpy.svg" height="48" alt="NumPy"/>
-  &nbsp;&nbsp;
-  <img src="./assets/tech/dvc.svg" height="48" alt="DVC"/>
-  &nbsp;&nbsp;
-  <img src="./assets/tech/mlflow.svg" height="48" alt="MLflow"/>
-  &nbsp;&nbsp;
-  <img src="./assets/tech/git.svg" height="48" alt="Git"/>
-  &nbsp;&nbsp;
-  <img src="./assets/tech/microsoft-power-bi.svg" height="48" alt="microsoft-power-bi"/>
-  &nbsp;&nbsp;
-  <img src="./assets/tech/matplotlib.svg" height="48" alt="matplotlib"/>
-  &nbsp;&nbsp;
-  <img src="./assets/tech/seaborn.svg" height="48" alt="Seaborn"/>
+  <kbd>&nbsp;<img src="./assets/tech/pandas.svg" width="64" height="64" alt="Pandas"/><br/><b>Pandas</b>&nbsp;</kbd>&nbsp;&nbsp;
+  <kbd>&nbsp;<img src="./assets/tech/numpy.svg" width="64" height="64" alt="NumPy"/><br/><b>NumPy</b>&nbsp;</kbd>&nbsp;&nbsp;
+  <kbd>&nbsp;<img src="./assets/tech/dvc.svg" width="64" height="64" alt="DVC"/><br/><b>DVC</b>&nbsp;</kbd>&nbsp;&nbsp;
+  <kbd>&nbsp;<img src="./assets/tech/mlflow.svg" width="64" height="64" alt="MLflow"/><br/><b>MLflow</b>&nbsp;</kbd>&nbsp;&nbsp;
+  <kbd>&nbsp;<img src="./assets/tech/git.svg" width="64" height="64" alt="Git"/><br/><b>Git</b>&nbsp;</kbd>&nbsp;&nbsp;
+  <kbd>&nbsp;<img src="./assets/tech/microsoft-power-bi.svg" width="64" height="64" alt="Power BI"/><br/><b>Power BI</b>&nbsp;</kbd>&nbsp;&nbsp;
+  <kbd>&nbsp;<img src="./assets/tech/matplotlib.svg" width="64" height="64" alt="Matplotlib"/><br/><b>Matplotlib</b>&nbsp;</kbd>&nbsp;&nbsp;
+  <kbd>&nbsp;<img src="./assets/tech/seaborn.svg" width="64" height="64" alt="Seaborn"/><br/><b>Seaborn</b>&nbsp;</kbd>
 </p>
 
-### ⚙️ Backend, APIs & Mobile
+<br/>
 
+<h3 align="center">⚙️ Backend, APIs &amp; Mobile</h3>
 <p align="center">
-  <img src="./assets/tech/streamlit.svg" height="48" alt="Streamlit"/>
-   &nbsp;&nbsp;
-  <img src="./assets/tech/FastAPI.svg" height="48" alt="FastAPI"/>
-   &nbsp;&nbsp;
-  <img src="./assets/tech/flutter.svg" height="48" alt="flutter"/>
+  <kbd>&nbsp;<img src="./assets/tech/streamlit.svg" width="64" height="64" alt="Streamlit"/><br/><b>Streamlit</b>&nbsp;</kbd>&nbsp;&nbsp;
+  <kbd>&nbsp;<img src="./assets/tech/FastAPI.svg" width="64" height="64" alt="FastAPI"/><br/><b>FastAPI</b>&nbsp;</kbd>&nbsp;&nbsp;
+  <kbd>&nbsp;<img src="./assets/tech/flutter.svg" width="64" height="64" alt="Flutter"/><br/><b>Flutter</b>&nbsp;</kbd>
 </p>
-
----
-
-### 📊 GitHub Activity
-
-<table align="center" width="100%">
-  <!-- Top Center Card -->
-  <tr>
-    <td align="center" colspan="2">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=MubashirShafique&theme=radical&hide_border=true&background=000000&ring=00FFFF&fire=00FFFF&cache_seconds=86400" width="50%" />
-    </td>
-  </tr>
-  <!-- Bottom Two Cards -->
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MubashirShafique&theme=github_dark" width="100%" />
-    </td>
-    <td align="center" width="50%">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MubashirShafique&theme=github_dark" width="100%" />
-    </td>
-  </tr>
-</table>
 ---
 
 ### 🎓 Certifications
