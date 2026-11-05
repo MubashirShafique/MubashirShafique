@@ -151,13 +151,13 @@ End-to-end spam detection system across SMS and email using NLP, served via Fast
 
 <h3 align="center"> AI Agents, RAG &amp; Generative AI</h3>
 <p align="center">
+  <kbd>&nbsp;<img src="./assets/tech/langchain.svg" width="64" height="64" alt="LangChain"/><br/><b>LangChain</b>&nbsp;</kbd>&nbsp;&nbsp;
+  <kbd>&nbsp;<img src="./assets/tech/langgraph.svg" width="64" height="64" alt="LangGraph"/><br/><b>LangGraph</b>&nbsp;</kbd>&nbsp;&nbsp;
+  <kbd>&nbsp;<img src="./assets/tech/n8n.svg" width="64" height="64" alt="n8n"/><br/><b>n8n</b>&nbsp;</kbd>
+  <kbd>&nbsp;<img src="./assets/tech/flashrank.svg" width="64" height="64" alt="FlashRank"/><br/><b>FlashRank</b>&nbsp;</kbd>&nbsp;&nbsp;
   <kbd>&nbsp;<img src="./assets/tech/openai.svg" width="64" height="64" alt="OpenAI"/><br/><b>OpenAI</b>&nbsp;</kbd>&nbsp;&nbsp;
   <kbd>&nbsp;<img src="./assets/tech/gemini.svg" width="64" height="64" alt="Gemini"/><br/><b>Gemini</b>&nbsp;</kbd>&nbsp;&nbsp;
   <kbd>&nbsp;<img src="./assets/tech/groq.svg" width="64" height="64" alt="Groq"/><br/><b>Groq</b>&nbsp;</kbd>&nbsp;&nbsp;
-  <kbd>&nbsp;<img src="./assets/tech/langchain.svg" width="64" height="64" alt="LangChain"/><br/><b>LangChain</b>&nbsp;</kbd>&nbsp;&nbsp;
-  <kbd>&nbsp;<img src="./assets/tech/langgraph.svg" width="64" height="64" alt="LangGraph"/><br/><b>LangGraph</b>&nbsp;</kbd>&nbsp;&nbsp;
-  <kbd>&nbsp;<img src="./assets/tech/flashrank.svg" width="64" height="64" alt="FlashRank"/><br/><b>FlashRank</b>&nbsp;</kbd>&nbsp;&nbsp;
-  <kbd>&nbsp;<img src="./assets/tech/n8n.svg" width="64" height="64" alt="n8n"/><br/><b>n8n</b>&nbsp;</kbd>
 </p>
 
 <br/>
