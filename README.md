@@ -140,6 +140,17 @@ End-to-end spam detection system across SMS and email using NLP, served via Fast
 
 ## 🛠️ Tech Stack
 
+### programming Languages
+<p align="center">
+  <img src="./assets/tech/python.svg" height="48" alt="python"/>
+  &nbsp;&nbsp;
+  <img src="./assets/tech/dart.svg" height="48" alt="Dart"/>
+  &nbsp;&nbsp;
+  <img src="./assets/tech/javascript.svg" height="48" alt="JavaScript"/>
+ 
+</p>
+
+
 ### 🤖 AI Agents, RAG & Generative AI
 
 <p align="center">
