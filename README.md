@@ -169,9 +169,7 @@ End-to-end spam detection system across SMS and email using NLP, served via Fast
   &nbsp;&nbsp;
   <img src="./assets/tech/flashrank.svg" height="48" alt="FlashRank"/>
   &nbsp;&nbsp;
-  <img src="./assets/tech/logfire.svg" height="48" alt="Logfire"/>
-  &nbsp;&nbsp;
-  <img src="./assets/tech/pydantic.svg" height="48" alt="Pydantic"/>
+  <img src="./assets/tech/Pinecone.svg" height="48" alt="Pinecone"/>
 </p>
 
 ### 🧠 Machine Learning & Deep Learning
