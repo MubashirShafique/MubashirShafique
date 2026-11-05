@@ -138,7 +138,7 @@ End-to-end spam detection system across SMS and email using NLP, served via Fast
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 <h3 align="center">Programming Languages</h3>
 <p align="center">
@@ -149,7 +149,7 @@ End-to-end spam detection system across SMS and email using NLP, served via Fast
 
 <br/>
 
-<h3 align="center">🤖 AI Agents, RAG &amp; Generative AI</h3>
+<h3 align="center"> AI Agents, RAG &amp; Generative AI</h3>
 <p align="center">
   <kbd>&nbsp;<img src="./assets/tech/openai.svg" width="64" height="64" alt="OpenAI"/><br/><b>OpenAI</b>&nbsp;</kbd>&nbsp;&nbsp;
   <kbd>&nbsp;<img src="./assets/tech/gemini.svg" width="64" height="64" alt="Gemini"/><br/><b>Gemini</b>&nbsp;</kbd>&nbsp;&nbsp;
@@ -162,7 +162,7 @@ End-to-end spam detection system across SMS and email using NLP, served via Fast
 
 <br/>
 
-<h3 align="center">🗄️ Vector Databases, Guardrails &amp; LLMOps</h3>
+<h3 align="center"> Vector Databases, Guardrails &amp; LLMOps</h3>
 <p align="center">
   <kbd>&nbsp;<img src="./assets/tech/qdrant.svg" width="64" height="64" alt="Qdrant"/><br/><b>Qdrant</b>&nbsp;</kbd>&nbsp;&nbsp;
   <kbd>&nbsp;<img src="./assets/tech/portkey.svg" width="64" height="64" alt="Portkey"/><br/><b>Portkey</b>&nbsp;</kbd>&nbsp;&nbsp;
@@ -173,7 +173,7 @@ End-to-end spam detection system across SMS and email using NLP, served via Fast
 
 <br/>
 
-<h3 align="center">🧠 Machine Learning &amp; Deep Learning</h3>
+<h3 align="center"> Machine Learning &amp; Deep Learning</h3>
 <p align="center">
   <kbd>&nbsp;<img src="./assets/tech/tensorflow.svg" width="64" height="64" alt="TensorFlow Lite"/><br/><b>TensorFlow Lite</b>&nbsp;</kbd>&nbsp;&nbsp;
   <kbd>&nbsp;<img src="./assets/tech/xgboost.svg" width="64" height="64" alt="XGBoost"/><br/><b>XGBoost</b>&nbsp;</kbd>&nbsp;&nbsp;
@@ -183,7 +183,7 @@ End-to-end spam detection system across SMS and email using NLP, served via Fast
 
 <br/>
 
-<h3 align="center">📊 Data Science &amp; MLOps</h3>
+<h3 align="center"> Data Science &amp; MLOps</h3>
 <p align="center">
   <kbd>&nbsp;<img src="./assets/tech/pandas.svg" width="64" height="64" alt="Pandas"/><br/><b>Pandas</b>&nbsp;</kbd>&nbsp;&nbsp;
   <kbd>&nbsp;<img src="./assets/tech/numpy.svg" width="64" height="64" alt="NumPy"/><br/><b>NumPy</b>&nbsp;</kbd>&nbsp;&nbsp;
@@ -197,12 +197,34 @@ End-to-end spam detection system across SMS and email using NLP, served via Fast
 
 <br/>
 
-<h3 align="center">⚙️ Backend, APIs &amp; Mobile</h3>
+<h3 align="center"> Backend, APIs &amp; Mobile</h3>
 <p align="center">
   <kbd>&nbsp;<img src="./assets/tech/streamlit.svg" width="64" height="64" alt="Streamlit"/><br/><b>Streamlit</b>&nbsp;</kbd>&nbsp;&nbsp;
   <kbd>&nbsp;<img src="./assets/tech/FastAPI.svg" width="64" height="64" alt="FastAPI"/><br/><b>FastAPI</b>&nbsp;</kbd>&nbsp;&nbsp;
   <kbd>&nbsp;<img src="./assets/tech/flutter.svg" width="64" height="64" alt="Flutter"/><br/><b>Flutter</b>&nbsp;</kbd>
 </p>
+---
+
+### GitHub Activity
+
+<table align="center" width="100%">
+  <!-- Top Center Card -->
+  <tr>
+    <td align="center" colspan="2">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=MubashirShafique&theme=radical&hide_border=true&background=000000&ring=00FFFF&fire=00FFFF&cache_seconds=86400" width="50%" />
+    </td>
+  </tr>
+  <!-- Bottom Two Cards -->
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MubashirShafique&theme=github_dark" width="100%" />
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MubashirShafique&theme=github_dark" width="100%" />
+    </td>
+  </tr>
+</table>
+
 ---
 
 ### 🎓 Certifications
