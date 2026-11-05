@@ -177,7 +177,7 @@ End-to-end spam detection system across SMS and email using NLP, served via Fast
 ### 🧠 Machine Learning & Deep Learning
 
 <p align="center">
-  <img src="./assets/tech/tensorflow-lite.svg" height="48" alt="TensorFlow Lite"/>
+  <img src="./assets/tech/tensorflow.svg" height="48" alt="TensorFlow Lite"/>
   &nbsp;&nbsp;
   <img src="./assets/tech/xgboost.svg" height="48" alt="XGBoost"/>
 </p>
@@ -199,7 +199,7 @@ End-to-end spam detection system across SMS and email using NLP, served via Fast
 <p align="center">
   <img src="./assets/tech/streamlit.svg" height="48" alt="Streamlit"/>
    &nbsp;&nbsp;
-  <img src="./assets/tech/shap.svg" height="48" alt="FastAPI"/>
+  <img src="./assets/tech/FastAPI.svg" height="48" alt="FastAPI"/>
 </p>
 
 ---
