@@ -184,7 +184,7 @@ End-to-end spam detection system across SMS and email using NLP, served via Fast
 
 <h3 align="center"> Machine Learning &amp; Deep Learning</h3>
 <p align="center">
-  <kbd>&nbsp;<img src="./assets/tech/tensorflow.svg" width="64" height="64" alt="TensorFlow Lite"/><br/><b>TensorFlow Lite</b>&nbsp;</kbd>&nbsp;&nbsp;
+  <kbd>&nbsp;<img src="./assets/tech/tensorflow.svg" width="64" height="64" alt="TensorFlow Lite"/><br/><b>TensorFlow</b>&nbsp;</kbd>&nbsp;&nbsp;
   <kbd>&nbsp;<img src="./assets/tech/xgboost.svg" width="64" height="64" alt="XGBoost"/><br/><b>XGBoost</b>&nbsp;</kbd>&nbsp;&nbsp;
   <kbd>&nbsp;<img src="./assets/tech/scikit-learn.svg" width="64" height="64" alt="scikit-learn"/><br/><b>scikit-learn</b>&nbsp;</kbd>&nbsp;&nbsp;
   <kbd>&nbsp;<img src="./assets/tech/keras.svg" width="64" height="64" alt="Keras"/><br/><b>Keras</b>&nbsp;</kbd>
